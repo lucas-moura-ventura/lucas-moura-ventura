@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucas-moura-ventura
-- 👀 I’m interested in design ui
+- 👀 I’m interested in design ui / figma
 - 🌱 I’m currently learning html css programming
 - 💞️ I’m looking to collaborate on design team as a junior
 - 📫 How to reach me https://www.facebook.com/lucasmoura.ventura.9?mibextid=ZbWKwL
